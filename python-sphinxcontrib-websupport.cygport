@@ -1,0 +1,11 @@
+inherit python-wheel
+
+NAME="python-sphinxcontrib-websupport"
+VERSION=1.0.1
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Sphinx web application integration"
+DESCRIPTION="A Python API to easily integrate Sphinx documentation into your
+Web application."
+
+ARCH=noarch
